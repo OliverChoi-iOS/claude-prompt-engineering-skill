@@ -6,6 +6,8 @@ bundled here verbatim rather than summarized.
 
 Installed at `~/.claude/skills/prompt-engineering/`, so it loads in every project.
 
+> Korean mirror: [README_KR.md](README_KR.md). Source of truth: this English document.
+
 ## What it does
 
 Two modes, both driven from `SKILL.md`:
@@ -46,6 +48,7 @@ model guide wins.
 prompt-engineering/
 ├── SKILL.md                        workflow, symptom index, stale-pattern list
 ├── README.md                       this file
+├── README_KR.md                    Korean mirror
 ├── references/                     verbatim copies from platform.claude.com
 │   ├── core-techniques.md          Prompting best practices (cross-model)
 │   ├── model-fable-5-1.md          Fable 5.1 / Mythos 5.1
